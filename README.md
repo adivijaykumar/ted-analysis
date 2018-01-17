@@ -1,1 +1,1 @@
-# ted-analysis
+Analysis of [TED data](https://www.kaggle.com/rounakbanik/ted-talks). A project by [Aditya](https://github.com/adivijaykumar) and [Rushab](https://github.com/RushabShah).
